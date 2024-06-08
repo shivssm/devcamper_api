@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivssm/Dev-backend-API-using-Node-Js.git"
+    "url": "git+https://github.com/shivssm/devcamper_api.git"
   },
   "author": "Shiv Shankar Mistry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shivssm/Dev-backend-API-using-Node-Js/issues"
+    "url": "https://github.com/shivssm/devcamper_api/issues"
   },
-  "homepage": "https://github.com/shivssm/Dev-backend-API-using-Node-Js#readme",
+  "homepage": "https://github.com/shivssm/devcamper_api#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
