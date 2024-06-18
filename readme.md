@@ -12,5 +12,5 @@ Example:
    );
 
 Third party logger - Morgan
-With this we can do a lot more, like log the request, the mehtod and stuff like that.
+With this we can do a lot more, like log the request, the method and stuff like that.
 install - npm i morgan
